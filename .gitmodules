@@ -1,0 +1,3 @@
+[submodule "gaudi"]
+	path = gaudi
+	url = https://github.com/ahmadassaf/gaudi-theme
